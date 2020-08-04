@@ -1,2 +1,2 @@
 # SysAdmin-DevOps
-This repository is to organize notes and scripts about general sysadmin/devops stuff
+This repository main purpose is to organize notes and scripts about every day and/or general sysadmin/devops stuff.  
