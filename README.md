@@ -5,8 +5,8 @@ As sysadmin/devops engineer we are always working with data.  Whether your main 
 
 This data that you collect may come from a log file, or data that you obtain from scripting some API; these days the one thing that we will encounter the most is data in JSON format.  I will be exploring the use of some tools that every sysadmin/devops should be using on a daily basis to process this JSON data and gain better insight and help you further automate your environment.  Here is a list of some of the tools that we will be exploring:
 
-JQ<br>
-XSV<br>
-MLR<br>
-AWK/SED<br>
+**JQ**<br>
+**XSV**<br>
+**MLR**<br>
+**AWK/SED**<br>
 
