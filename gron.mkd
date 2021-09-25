@@ -1,4 +1,4 @@
-Notes on Gron 
+**Notes on Gron** 
 
  If you are a SysAdmin/DevOps engineer working with JSON data on a regular basis, I am certain that you’d have a collection of tools and/or scripts to help you dealing with these types of files or data.  As a SysAdmin engineer I am always looking for new tools that can help me do my work, or everyday tasks a little better and more efficient. One tool that I recently discovered while trying to refactor some of my existing security audit scripts was 'gron'.   
 
