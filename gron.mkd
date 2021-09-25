@@ -10,11 +10,11 @@ Notes on Gron
 
 So, in summary, here is a short list of why I think Gron is something to add to your DevOps toolbox: 
 
-*It is easy to master. 
-*Can read directly from a URL or stdin. 
-*No embedded DSL to learn or master. 
-*Easily integrates into your scripts regardless of which scripting language you prefer to use. 
-*Allows you to create filters and modifiers with tools like ‘sed’ or ‘awk’ and convert back to JSON. 
+* It is easy to master. 
+* Can read directly from a URL or stdin. 
+* No embedded DSL to learn or master. 
+* Easily integrates into your scripts regardless of which scripting language you prefer to use. 
+* Allows you to create filters and modifiers with tools like ‘sed’ or ‘awk’ and convert back to JSON. 
 
   
 
