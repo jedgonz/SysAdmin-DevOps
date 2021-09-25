@@ -1,0 +1,29 @@
+Notes on Gron 
+
+ If you are a SysAdmin/DevOps engineer working with JSON data on a regular basis, I am certain that you’d have a collection of tools and/or scripts to help you dealing with these types of files or data.  As a SysAdmin engineer I am always looking for new tools that can help me do my work, or everyday tasks a little better and more efficient. One tool that I recently discovered while trying to refactor some of my existing security audit scripts was 'gron'.   
+
+ 'gron' is a great tool designed and maintained primarily by Tom Hudson.  The tool itself is written in ‘golang’ and is built as a single binary.  ‘gron’ makes working with JSON files and data structure from the command line or your favorite shell a breeze; it allows you to do all kinds of manipulation, transformation and a plethora of everyday sysadmin types of tasks or operations that would make dealing directly with the raw JSON file a lot more difficult or end up forcing you to write longer scripts—gron allows you to follow the K.I.S.S method.  Simple things should be simple and easy to implement.  
+
+ https://github.com/tomnomnom/gron 
+
+ When I first went to the Gron’s repo, the first thing that really caught my attention while going through the README page at the very top was the statement “Make JSON greppable!”.   With Gron, not only can you make JSON greppable, it makes the entire collection of Unix/Linux tools readily available to all of your JSON data explorations.  Yes, you may argue that the only tool we really need to do the same thing that everyday sysadmin needs to do is 'jq' and nothing else.   This may be true,  however, 'jq' is a very powerful tool,  but nobody can't argue the simplicity that we get from 'gron' and how we easily can use it on scripts or the CLI in a much natural way that do not require of me to keep referencing the 'jq' help page.  
+
+So, in summary, here is a short list of why I think Gron is something to add to your DevOps toolbox: 
+
+*It is easy to master. 
+
+*Can read directly from a URL or stdin. 
+
+*No embedded DSL to learn or master. 
+
+*Easily integrates into your scripts regardless of which scripting language you prefer to use. 
+
+*Allows you to create filters and modifiers with tools like ‘sed’ or ‘awk’ and convert back to JSON. 
+
+  
+
+For a much better descriptions of the different use cases or the things that you can do with Gron, please refer to the Gron's README.mkd page 
+
+https://github.com/tomnomnom/gron#readme 
+
+ 
