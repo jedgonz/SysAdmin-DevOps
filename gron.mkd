@@ -1,6 +1,6 @@
 **Notes on Gron** 
 
- If you are a SysAdmin/DevOps engineer working with JSON data on a regular basis, I am certain that you’d have a collection of tools and/or scripts to help you dealing with these types of files or data.  As a SysAdmin engineer I am always looking for new tools that can help me do my work, or everyday tasks a little better and more efficient. One tool that I recently discovered while trying to refactor some of my existing security audit scripts was 'gron'.   
+ If you are a SysAdmin/DevOps engineer working with JSON data on a regular basis, I am certain that you’d have a collection of tools and/or scripts to help you dealing with these types of files or data.  As a SysAdmin engineer I am always looking for new tools that can help me do my work, or everyday tasks a little better and more efficiently. One tool that I recently discovered while trying to refactor some of my existing security audit scripts was 'gron'.   
 
  'gron' is a great tool designed and maintained primarily by Tom Hudson.  The tool itself is written in ‘golang’ and is built as a single binary.  ‘gron’ makes working with JSON files and data structure from the command line or your favorite shell a breeze; it allows you to do all kinds of manipulation, transformation and a plethora of everyday sysadmin types of tasks or operations that would make dealing directly with the raw JSON file a lot more difficult or end up forcing you to write longer scripts—gron allows you to follow the K.I.S.S method.  Simple things should be simple and easy to implement.  
 
